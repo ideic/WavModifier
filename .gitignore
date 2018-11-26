@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/WavModifier/.vs/
+/WavModifier/WavModifier/Debug
+/WavModifier/WavModifier/*.user
+/WavModifier/Debug/*.pdb
